@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory</h1>
+<h1>On-premises Active Directory: Create User</h1>
 This SOP outlines how to add a user to the Active Directory.<br />
 
 <h2>Environments and Technologies Used</h2>
