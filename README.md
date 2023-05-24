@@ -23,10 +23,6 @@ This SOP outlines how to add a user to the Active Directory.<br />
 </p>
 
 <p>
-<img src="https://imgur.com/T1rlfWK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
 <img src="https://imgur.com/SmX07rT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
